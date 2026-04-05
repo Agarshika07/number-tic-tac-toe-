@@ -32,9 +32,9 @@ A player wins if any row, column, or diagonal adds up to *15*.
 2. Open the project folder in VS Code or terminal.
 3. Run the file:
 
-bash
+```bash
 python main.py
-
+```
 
 ## Example Gameplay
 text
