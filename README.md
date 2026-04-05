@@ -26,7 +26,7 @@ A player wins if any row, column, or diagonal adds up to *15*.
 - nested lists
 - string formatting
 - input validation
-
+  
 ## How to Run
 1. Make sure Python is installed.
 2. Open the project folder in VS Code or terminal.
@@ -35,6 +35,8 @@ A player wins if any row, column, or diagonal adds up to *15*.
 ```bash
 python main.py
 ```
+## Files
+- [main.py](main.py) — main Python game file
 
 ## Example Gameplay
 text
